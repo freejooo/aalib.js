@@ -6,16 +6,16 @@ It is written entirely in JavaScript and is intended to use in web browsers.
 
 ## Examples
 
-* [Mona](http://mir3z.github.io/aalib.js/examples/mona.html) ([original](http://mir3z.github.io/aalib.js/resources/mona.png))
-* [Lenna](http://mir3z.github.io/aalib.js/examples/lenna.html) ([original](http://mir3z.github.io/aalib.js/resources/lenna.png))
-* [Marylin](http://mir3z.github.io/aalib.js/examples/marylin.html) ([original](http://mir3z.github.io/aalib.js/resources/marylin.jpg))
-* [Evangeline](http://mir3z.github.io/aalib.js/examples/evangeline.html) ([original](http://mir3z.github.io/aalib.js/resources/evangeline.jpg))
-* [Monica](http://mir3z.github.io/aalib.js/examples/monica.html) ([original](http://mir3z.github.io/aalib.js/resources/monica.jpg))
-* [Big Buck Bunny](http://mir3z.github.io/aalib.js/examples/bbb.html)
+* [Mona](http://freejooo.github.io/aalib.js/examples/mona.html) ([original](http://mir3z.github.io/aalib.js/resources/mona.png))
+* [Lenna](http://freejooo.github.io/aalib.js/examples/lenna.html) ([original](http://mir3z.github.io/aalib.js/resources/lenna.png))
+* [Marylin](http://freejooo.github.io/aalib.js/examples/marylin.html) ([original](http://mir3z.github.io/aalib.js/resources/marylin.jpg))
+* [Evangeline](http://freejooo.github.io/aalib.js/examples/evangeline.html) ([original](http://mir3z.github.io/aalib.js/resources/evangeline.jpg))
+* [Monica](http://freejooo.github.io/aalib.js/examples/monica.html) ([original](http://mir3z.github.io/aalib.js/resources/monica.jpg))
+* [Big Buck Bunny](http://freejooo.github.io/aalib.js/examples/bbb.html)
 
 ## Interactive demo
 
-[Click here](http://mir3z.github.io/aalib.js/playground/www/)
+[Click here](http://freejooo.github.io/aalib.js/playground/www/)
 
 ## Usage
 
