@@ -1,7 +1,7 @@
 # aalib.js
 
 This library converts images and movies to [ASCII art](https://en.wikipedia.org/wiki/ASCII_art).
-
+dddd
 It is written entirely in JavaScript and is intended to use in web browsers.
 
 ## Examples
